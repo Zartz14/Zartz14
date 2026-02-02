@@ -1,6 +1,9 @@
-## Hi there My Name is Ziad Imam! </> <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/> 
+<div align="center">
+
+# Hi there My Name is Ziad Imam! </> <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/> 
 
   **Software Engineer Student | Graphic Designer | Oracle Ambassador**
+  
   <br />
   
 <p align="center">
