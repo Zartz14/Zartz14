@@ -56,8 +56,6 @@
 
 ---
 
----
-
 ### 🛠️ Languages & Tools
 
 ### 🗣️ Languages
@@ -72,7 +70,7 @@
 
 ### 🧠 Backend, AI & Data
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,django,laravel,docker,supabase,mysql,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,laravel,docker,mysql,tensorflow,pytorch" />
 </a>
 
 ### 🎮 Game Dev & Hardware
@@ -82,14 +80,14 @@
 
 ### 🐧 Operating Systems
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,arch,mint" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,kali,arch,mint" />
 </a>
 
 ### 🛠️ Tools, Design & Workflow
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=obsidian,git,github,vscode,visualstudio,figma" height="48" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=obsidian,git,github,vscode,figma" height="48" alt="Tools" />
   </a>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" width="48" alt="Canva" />
@@ -107,5 +105,35 @@
   <img width="300" height="300" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Zartz14&theme=github_dark" />
   <img width="300" height="300" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zartz14&layout=compact&theme=github_dark&card_width=270" />
 </p>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <a href="https://www.linkedin.com/in/ziad-imam/">
+          <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+        </a>
+        <br/>
+        <a href="https://www.linkedin.com/in/ziad-imam/"><b>LinkedIn</b></a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://x.com/z_artz14">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height="42" width="42" alt="X" />
+        </a>
+        <br/>
+        <a href="https://x.com/z_artz14"><b>X</b></a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://www.instagram.com/Z_artz14">
+          <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
+        </a>
+        <br/>
+        <a href="https://www.instagram.com/Z_artz14"><b>Instagram</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
