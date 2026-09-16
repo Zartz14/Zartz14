@@ -32,20 +32,6 @@
   </tr>
 </table>
 
-
-
----
-
-  <picture>
-   
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zartz14/Zartz14/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zartz14/Zartz14/output/pacman-contribution-graph.svg">
-  <img alt="Zartz14 Contribution Graph" src="https://raw.githubusercontent.com/Zartz14/Zartz14/output/pacman-contribution-graph.svg">
-  
-</picture>
-
----
-
 ## 💼 My Experiences
 
 | Role                          | Organization                           | Highlights                                                                              |
